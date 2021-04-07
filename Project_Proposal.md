@@ -6,11 +6,12 @@ In the NBA, injuries seem incredibly unpredictable, and can often pose significa
 
 NBA teams make decisions based on players' history and physical attributes, but how much of these actually indicate the possibility of injury occuring?
 
+How can teams make more informed decisions to either lower injury probability, or avoid over-investing in those with high likelihood of injury?
+
 What qualities of players make them more prone to injury?
 * Do injuries happen more often to taller or shorter players?
 * Does weight-height ratio play a role in injury?
 * How much does injury history affect the chances of re-injury?
-
 
 
 #### Data Description:
