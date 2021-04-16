@@ -18,6 +18,8 @@ Teams utilize players in their offensive and defensive systems based on past sta
 
 Based on these player attributes and statistics, a team can decide to what extent a player should be incorporated into their gameplan.
 
+Furthermore, with a predictive model, players can attempt to improve their individual statistics and tendencies to maximize usage rate.
+
 
 ## Data
 
