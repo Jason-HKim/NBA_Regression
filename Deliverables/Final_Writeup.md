@@ -35,6 +35,7 @@ Because of the nature of my analysis, I chose to ignore entries with nan values 
 ## Tools & Algorithms
 Python Libraries:
 * BeautifulSoup - Web Scraping
+* SKLearn - Data Analysis & Modeling
 * Pandas & Numpy - Data manipulation & cleaning
 * MatPlotLib & Seaborn - Data visualizations
 * Datetime - For dates
